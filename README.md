@@ -24,7 +24,7 @@ The app helps users during emergency situations by providing first-aid guidance.
 ## Technologies Used
 - Kotlin
 - Android Studio
-- Firebase Authentication
+
 
 ## Purpose of the Project
 The purpose of this application is to provide quick first-aid information and emergency support during acute emergency situations.
